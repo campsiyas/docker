@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DlnaPluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnablePlayTo>true</EnablePlayTo>
+  <ClientDiscoveryIntervalSeconds>60</ClientDiscoveryIntervalSeconds>
+  <BlastAliveMessages>true</BlastAliveMessages>
+  <AliveMessageIntervalSeconds>180</AliveMessageIntervalSeconds>
+  <SendOnlyMatchedHost>true</SendOnlyMatchedHost>
+  <DefaultUserId xsi:nil="true" />
+</DlnaPluginConfiguration>

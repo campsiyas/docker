@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "- Fixed ListenToSocketInternal so it works after Jellyfin 10.9.2 (#51) @ms-afk\n\n### Dependency updates ###\n- Update dependency Microsoft.AspNetCore.Authorization to v8.0.5 (#47) @renovate\n- Update dependency Microsoft.AspNetCore.Authorization to v8.0.4 (#37) @renovate",
+  "description": "Use Jellyfin as a DLNA server.",
+  "guid": "33eba9cd-7da1-4720-967f-dd7dae7b74a1",
+  "name": "DLNA",
+  "overview": "DLNA Service",
+  "owner": "jellyfin",
+  "targetAbi": "10.9.2.0",
+  "timestamp": "2024-05-26T20:40:15.0000000Z",
+  "version": "2.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "",
+  "assemblies": []
+}

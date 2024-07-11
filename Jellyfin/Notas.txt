@@ -1,0 +1,4 @@
+#Detener contenedor
+sudo docker container stop c03848df04cb
+#Remover contenedor
+sudo docker rm c03848df04cb

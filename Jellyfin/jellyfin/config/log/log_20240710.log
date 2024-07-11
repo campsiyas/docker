@@ -1,0 +1,488 @@
+[2024-07-10 00:01:40.991 +00:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:04:28.991 +00:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:07:16.990 +00:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:10:52.991 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:13:40.992 +00:00] [INF] [75] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:16:28.983 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:19:16.982 +00:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:22:52.984 +00:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:25:40.983 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:28:28.982 +00:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:31:16.983 +00:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:34:53.027 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:37:41.029 +00:00] [INF] [67] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:40:29.030 +00:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:43:17.032 +00:00] [INF] [47] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:46:53.036 +00:00] [INF] [68] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:49:41.037 +00:00] [INF] [46] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:52:29.038 +00:00] [INF] [33] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:55:17.066 +00:00] [INF] [67] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 00:58:53.071 +00:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:01:41.073 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:04:29.076 +00:00] [INF] [82] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:07:17.080 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:10:53.083 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:13:41.078 +00:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:16:29.079 +00:00] [INF] [28] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:19:17.083 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:22:53.085 +00:00] [INF] [15] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:25:41.088 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:28:29.090 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:31:17.089 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:34:53.088 +00:00] [INF] [82] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:37:41.090 +00:00] [INF] [58] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:40:29.092 +00:00] [INF] [84] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:43:17.095 +00:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:46:53.098 +00:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:49:41.099 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:52:29.085 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:53:22.051 +00:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/tvshows"
+[2024-07-10 01:53:22.052 +00:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies"
+[2024-07-10 01:53:22.054 +00:00] [INF] [38] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-07-10 01:53:22.360 +00:00] [WRN] [38] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2024-07-10 01:53:22.575 +00:00] [WRN] [57] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2024-07-10 01:53:37.513 +00:00] [INF] [59] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Escanear la biblioteca" Completed after 0 minute(s) and 15 seconds
+[2024-07-10 01:53:37.569 +00:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies"
+[2024-07-10 01:53:37.575 +00:00] [INF] [57] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/tvshows"
+[2024-07-10 01:55:17.088 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 01:58:53.090 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:00:00.122 +00:00] [INF] [52] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extraer imágenes de los capítulos" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 02:00:01.079 +00:00] [INF] [52] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extraer imágenes de los capítulos" set to fire at 2024-07-11 02:00:00.000 +00:00, which is 23:59:58.9205145 from now.
+[2024-07-10 02:01:41.092 +00:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:04:29.092 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:07:17.094 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:10:53.112 +00:00] [INF] [17] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:13:41.115 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:16:29.117 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:19:17.120 +00:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:22:53.122 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:25:41.126 +00:00] [INF] [10] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:28:29.118 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:31:17.117 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:34:53.119 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:37:41.143 +00:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:40:29.122 +00:00] [INF] [59] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:43:17.125 +00:00] [INF] [19] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:46:53.122 +00:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:49:41.121 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:52:29.124 +00:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:55:17.122 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 02:58:53.125 +00:00] [INF] [19] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:00:00.139 +00:00] [INF] [57] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generar miniaturas de línea de tiempo" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:00:01.116 +00:00] [INF] [57] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generar miniaturas de línea de tiempo" set to fire at 2024-07-11 03:00:00.000 +00:00, which is 23:59:58.8835746 from now.
+[2024-07-10 03:01:37.996 +00:00] [INF] [59] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Normalización de audio" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:01:38.077 +00:00] [INF] [59] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Limpiar registros" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:01:38.078 +00:00] [INF] [62] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Limpiar las transcodificaciones" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:01:38.079 +00:00] [INF] [38] Emby.Server.Implementations.ScheduledTasks.TaskManager: "TasksRefreshChannels" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:01:38.382 +00:00] [INF] [59] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2024-07-10 03:01:38.505 +00:00] [INF] [59] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: jellyfin.db optimized successfully!
+[2024-07-10 03:01:38.505 +00:00] [INF] [59] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimizar la base de datos" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:01:38.858 +00:00] [INF] [62] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Eliminar archivos temporales" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:01:41.127 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:02:11.420 +00:00] [INF] [38] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Descargar los subtítulos que faltan" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 03:04:29.128 +00:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:07:17.145 +00:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:10:53.149 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:13:41.150 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:16:29.151 +00:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:19:17.153 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:22:53.157 +00:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:25:41.169 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:28:29.170 +00:00] [INF] [10] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:31:17.172 +00:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:34:50.863 +00:00] [INF] [40] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2024-07-10 03:34:50.884 +00:00] [INF] [40] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2024-07-10 03:34:53.176 +00:00] [INF] [40] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:37:41.178 +00:00] [INF] [31] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:40:29.180 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:43:17.183 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:46:53.157 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:49:41.159 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:52:29.160 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:55:17.163 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 03:58:53.163 +00:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:01:41.166 +00:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:04:29.167 +00:00] [INF] [62] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:04:43.336 +00:00] [INF] [62] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.65.1" request
+[2024-07-10 04:05:49.607 +00:00] [INF] [16] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 04:05:49.730 +00:00] [INF] [28] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 04:07:17.176 +00:00] [INF] [10] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:10:53.180 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:13:41.181 +00:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:16:29.182 +00:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:19:17.185 +00:00] [INF] [20] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:22:53.145 +00:00] [INF] [64] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:25:41.137 +00:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:28:29.139 +00:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:31:17.137 +00:00] [INF] [52] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:34:53.139 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:37:41.138 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:40:29.138 +00:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:43:17.137 +00:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:46:53.138 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:49:31.988 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Android TV" "0.16.11" playing "Salsa roja". Stopped at "2613474" ms
+[2024-07-10 04:49:39.740 +00:00] [INF] [35] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 04:49:39.848 +00:00] [INF] [35] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 04:49:41.136 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:52:29.138 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:55:17.167 +00:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 04:58:53.168 +00:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:01:41.170 +00:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:04:29.171 +00:00] [INF] [37] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:07:17.172 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:10:53.205 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:13:41.207 +00:00] [INF] [77] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:16:29.209 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:19:17.210 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:22:53.213 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:25:41.190 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:28:29.187 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:31:17.188 +00:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:34:53.189 +00:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:37:41.190 +00:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:40:29.192 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:43:17.192 +00:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:46:53.192 +00:00] [INF] [48] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:49:41.192 +00:00] [INF] [77] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:52:29.193 +00:00] [INF] [78] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:55:17.194 +00:00] [INF] [78] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 05:58:53.195 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:01:41.195 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:04:29.204 +00:00] [INF] [21] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:07:17.206 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:10:53.207 +00:00] [INF] [78] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:13:41.209 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:16:29.211 +00:00] [INF] [54] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:19:17.212 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:22:53.211 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:25:41.213 +00:00] [INF] [78] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:28:29.213 +00:00] [INF] [67] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:31:17.214 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:34:53.215 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:37:41.216 +00:00] [INF] [69] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:40:29.218 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:43:17.244 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:46:53.247 +00:00] [INF] [77] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:49:41.248 +00:00] [INF] [78] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:52:29.250 +00:00] [INF] [78] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:55:17.253 +00:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 06:58:53.255 +00:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 07:01:41.258 +00:00] [INF] [27] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 07:04:29.258 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 07:07:17.262 +00:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 07:10:53.264 +00:00] [INF] [30] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-07-10 07:12:38.514 +00:00] [INF] [63] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.65.1" closed
+[2024-07-10 07:12:41.715 +00:00] [INF] [35] Emby.Server.Implementations.Session.SessionManager: Sending shutdown notifications
+[2024-07-10 16:29:16.226 +00:00] [INF] [1] Main: Jellyfin version: "10.9.7"
+[2024-07-10 16:29:16.266 +00:00] [INF] [1] Main: Environment Variables: ["[JELLYFIN_WEB_DIR, /usr/share/jellyfin/web]", "[JELLYFIN_DATA_DIR, /config/data]", "[JELLYFIN_CACHE_DIR, /config/cache]", "[JELLYFIN_LOG_DIR, /config/log]", "[JELLYFIN_PublishedServerUrl, 192.168.0.5]", "[JELLYFIN_CONFIG_DIR, /config]"]
+[2024-07-10 16:29:16.269 +00:00] [INF] [1] Main: Arguments: ["/usr/lib/jellyfin/bin/jellyfin.dll", "--ffmpeg=/usr/lib/jellyfin-ffmpeg/ffmpeg"]
+[2024-07-10 16:29:16.270 +00:00] [INF] [1] Main: Operating system: "Ubuntu 22.04.4 LTS"
+[2024-07-10 16:29:16.271 +00:00] [INF] [1] Main: Architecture: X64
+[2024-07-10 16:29:16.271 +00:00] [INF] [1] Main: 64-Bit Process: True
+[2024-07-10 16:29:16.271 +00:00] [INF] [1] Main: User Interactive: True
+[2024-07-10 16:29:16.272 +00:00] [INF] [1] Main: Processor count: 8
+[2024-07-10 16:29:16.272 +00:00] [INF] [1] Main: Program data path: "/config/data"
+[2024-07-10 16:29:16.272 +00:00] [INF] [1] Main: Log directory path: "/config/log"
+[2024-07-10 16:29:16.272 +00:00] [INF] [1] Main: Config directory path: "/config"
+[2024-07-10 16:29:16.272 +00:00] [INF] [1] Main: Cache path: "/config/cache"
+[2024-07-10 16:29:16.273 +00:00] [INF] [1] Main: Web resources path: "/usr/share/jellyfin/web"
+[2024-07-10 16:29:16.273 +00:00] [INF] [1] Main: Application directory: "/usr/lib/jellyfin/bin/"
+[2024-07-10 16:29:16.616 +00:00] [INF] [1] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2024-07-10 16:29:17.028 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Loading assemblies
+[2024-07-10 16:29:17.080 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.Dlna, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Jellyfin.Plugin.Dlna.dll"
+[2024-07-10 16:29:17.082 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Rssdp, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Rssdp.dll"
+[2024-07-10 16:29:17.087 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.Dlna.Playback, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Jellyfin.Plugin.Dlna.Playback.dll"
+[2024-07-10 16:29:17.088 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.Dlna.Model, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Jellyfin.Plugin.Dlna.Model.dll"
+[2024-07-10 16:29:17.094 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.OpenSubtitles, Version=20.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/Open Subtitles_20.0.0.0/Jellyfin.Plugin.OpenSubtitles.dll"
+[2024-07-10 16:29:17.211 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2024-07-10 16:29:17.211 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions: []
+[2024-07-10 16:29:17.212 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Used LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2024-07-10 16:29:17.215 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered interface addresses: ["127.0.0.1", "172.19.0.2"]
+[2024-07-10 16:29:17.216 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Bind Addresses ["0.0.0.0"]
+[2024-07-10 16:29:17.217 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Remote IP filter is "Allowlist"
+[2024-07-10 16:29:17.217 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered subnets: []
+[2024-07-10 16:29:20.256 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "DLNA" "2.0.0.0"
+[2024-07-10 16:29:20.272 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Open Subtitles" "20.0.0.0"
+[2024-07-10 16:29:20.274 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "TMDb" "10.9.7.0"
+[2024-07-10 16:29:20.275 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Studio Images" "10.9.7.0"
+[2024-07-10 16:29:20.275 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "OMDb" "10.9.7.0"
+[2024-07-10 16:29:20.309 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "MusicBrainz" "10.9.7.0"
+[2024-07-10 16:29:20.320 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "AudioDB" "10.9.7.0"
+[2024-07-10 16:29:20.412 +00:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.Repositories.EphemeralXmlRepository: Using an in-memory repository. Keys will not be persisted to storage.
+[2024-07-10 16:29:20.412 +00:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+[2024-07-10 16:29:20.427 +00:00] [INF] [1] Main: Kestrel is listening on "0.0.0.0"
+[2024-07-10 16:29:20.649 +00:00] [INF] [1] Jellyfin.Plugin.Dlna.Main.DlnaHost: Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "127.0.0.1"
+[2024-07-10 16:29:20.670 +00:00] [INF] [1] Jellyfin.Plugin.Dlna.Main.DlnaHost: Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "172.19.0.2"
+[2024-07-10 16:29:20.696 +00:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: No XML encryptor configured. Key {ac3188e7-db64-4743-a410-9fbef4a465a6} may be persisted to storage in unencrypted form.
+[2024-07-10 16:29:21.003 +00:00] [INF] [1] Jellyfin.Networking.PortForwardingHost: Starting NAT discovery
+[2024-07-10 16:29:21.812 +00:00] [WRN] [1] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: The WebRootPath was not found: "/run/s6-rc:s6-rc-init:oFilkF/servicedirs/svc-jellyfin/wwwroot". Static files may be unavailable.
+[2024-07-10 16:29:21.868 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Running startup tasks
+[2024-07-10 16:29:21.876 +00:00] [INF] [10] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies"
+[2024-07-10 16:29:21.881 +00:00] [INF] [15] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/tvshows"
+[2024-07-10 16:29:21.902 +00:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generar miniaturas de línea de tiempo" set to fire at 2024-07-11 03:00:00.000 +00:00, which is 10:30:38.0978164 from now.
+[2024-07-10 16:29:21.912 +00:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extraer imágenes de los capítulos" set to fire at 2024-07-11 02:00:00.000 +00:00, which is 09:30:38.0873973 from now.
+[2024-07-10 16:29:22.122 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Found ffmpeg version "6.0.1"
+[2024-07-10 16:29:22.204 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "decoders": ["libdav1d", "av1", "av1_cuvid", "av1_qsv", "h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "mpeg2_cuvid", "mpeg4", "mpeg4_cuvid", "msmpeg4", "vc1_qsv", "vc1_cuvid", "vp8", "libvpx", "vp8_cuvid", "vp8_qsv", "vp9", "libvpx-vp9", "vp9_cuvid", "vp9_qsv", "aac", "ac3", "dca", "flac", "mp3", "truehd"]
+[2024-07-10 16:29:22.228 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "encoders": ["libsvtav1", "av1_nvenc", "av1_qsv", "av1_amf", "av1_vaapi", "libx264", "h264_amf", "h264_nvenc", "h264_qsv", "h264_v4l2m2m", "h264_vaapi", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "hevc_vaapi", "mjpeg_qsv", "mjpeg_vaapi", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "libfdk_aac", "ac3", "alac", "dca", "flac", "libmp3lame", "libopus", "truehd", "libvorbis", "srt"]
+[2024-07-10 16:29:22.269 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available filters: ["deinterlace_qsv", "deinterlace_vaapi", "hwupload_cuda", "hwupload_vaapi", "libplacebo", "overlay_opencl", "overlay_qsv", "overlay_vaapi", "overlay_vulkan", "overlay_cuda", "procamp_vaapi", "scale_cuda", "scale_opencl", "scale_qsv", "scale_vaapi", "scale_vulkan", "tonemap_cuda", "tonemap_opencl", "tonemap_vaapi", "vpp_qsv", "yadif_cuda", "zscale", "alphasrc"]
+[2024-07-10 16:29:22.429 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available hwaccel types: ["cuda", "vaapi", "qsv", "drm", "opencl", "vulkan"]
+[2024-07-10 16:29:23.924 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: FFmpeg: "/usr/lib/jellyfin-ffmpeg/ffmpeg"
+[2024-07-10 16:29:23.924 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: ServerId: "403462fb282e4e5db312f5d602582022"
+[2024-07-10 16:29:23.924 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Core startup complete
+[2024-07-10 16:29:23.924 +00:00] [INF] [1] Main: Startup complete 0:00:08.5126033
+[2024-07-10 16:29:24.941 +00:00] [INF] [11] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Limpiar colecciones y listas de reproducción" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 16:29:25.046 +00:00] [ERR] [11] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://repo.jellyfin.org/files/plugin/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (repo.jellyfin.org:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 16:29:25.068 +00:00] [ERR] [8] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (raw.githubusercontent.com:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 16:29:25.076 +00:00] [ERR] [10] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://repo.codyrobibero.dev/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (repo.codyrobibero.dev:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 16:29:25.084 +00:00] [INF] [10] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Actualizar extensiones" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 16:30:23.143 +00:00] [INF] [21] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/tvshows"
+[2024-07-10 16:30:23.144 +00:00] [INF] [21] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies"
+[2024-07-10 16:30:23.145 +00:00] [INF] [21] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-07-10 16:30:23.368 +00:00] [WRN] [21] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2024-07-10 16:30:23.450 +00:00] [WRN] [23] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2024-07-10 16:30:31.280 +00:00] [INF] [24] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Escanear la biblioteca" Completed after 0 minute(s) and 8 seconds
+[2024-07-10 16:30:31.288 +00:00] [INF] [27] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies"
+[2024-07-10 16:30:31.346 +00:00] [INF] [16] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/tvshows"
+[2024-07-10 16:34:53.445 +00:00] [INF] [32] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 16:34:53.587 +00:00] [INF] [30] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 16:59:54.939 +00:00] [INF] [37] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Android TV" "0.16.11" playing "La pantera roja". Stopped at "2631792" ms
+[2024-07-10 17:00:02.736 +00:00] [INF] [37] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 17:00:02.818 +00:00] [INF] [37] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 17:11:45.649 +00:00] [INF] [17] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Android TV" "0.16.11" playing "Hermanos de sangre". Stopped at "694404" ms
+[2024-07-10 17:59:07.584 +00:00] [ERR] [50] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://repo.codyrobibero.dev/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (repo.codyrobibero.dev:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 17:59:07.587 +00:00] [INF] [50] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Actualizar extensiones" Completed after 0 minute(s) and 1 seconds
+[2024-07-10 18:14:57.220 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Sending shutdown notifications
+[2024-07-10 18:14:57.247 +00:00] [INF] [45] Jellyfin.Networking.PortForwardingHost: Stopping NAT discovery
+[2024-07-10 18:14:57.259 +00:00] [INF] [32] Jellyfin.Plugin.Dlna.Main.DlnaHost: Disposing SsdpDevicePublisher
+[2024-07-10 18:14:57.371 +00:00] [INF] [32] Jellyfin.Plugin.Dlna.Main.DlnaHost: Disposing PlayToManager
+[2024-07-10 18:14:57.373 +00:00] [INF] [32] Main: Running query planner optimizations in the database... This might take a while
+[2024-07-10 18:14:57.402 +00:00] [INF] [30] Rssdp.Infrastructure.SsdpCommunicationsServer: "SsdpCommunicationsServer" disposing _BroadcastListenSocket
+[2024-07-10 18:14:57.404 +00:00] [INF] [30] Rssdp.Infrastructure.SsdpCommunicationsServer: "SsdpCommunicationsServer" Disposing 1 sendSockets
+[2024-07-10 18:14:57.404 +00:00] [INF] [30] Rssdp.Infrastructure.SsdpCommunicationsServer: "SsdpCommunicationsServer" disposing sendSocket from "172.19.0.2"
+[2024-07-10 18:14:57.408 +00:00] [INF] [30] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/tvshows"
+[2024-07-10 18:14:57.408 +00:00] [INF] [30] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies"
+[2024-07-10 18:14:57.417 +00:00] [INF] [32] Emby.Server.Implementations.ApplicationHost: Disposing "CoreAppHost"
+[2024-07-10 18:14:57.417 +00:00] [INF] [32] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzArtistProvider"
+[2024-07-10 18:14:57.417 +00:00] [INF] [32] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzAlbumProvider"
+[2024-07-10 18:14:57.417 +00:00] [INF] [32] Emby.Server.Implementations.ApplicationHost: Disposing "PluginManager"
+[2024-07-10 22:07:39.020 +00:00] [INF] [1] Main: Jellyfin version: "10.9.7"
+[2024-07-10 22:07:39.047 +00:00] [INF] [1] Main: Environment Variables: ["[JELLYFIN_CONFIG_DIR, /config]", "[JELLYFIN_WEB_DIR, /usr/share/jellyfin/web]", "[JELLYFIN_DATA_DIR, /config/data]", "[JELLYFIN_CACHE_DIR, /config/cache]", "[JELLYFIN_PublishedServerUrl, 192.168.0.5]", "[JELLYFIN_LOG_DIR, /config/log]"]
+[2024-07-10 22:07:39.050 +00:00] [INF] [1] Main: Arguments: ["/usr/lib/jellyfin/bin/jellyfin.dll", "--ffmpeg=/usr/lib/jellyfin-ffmpeg/ffmpeg"]
+[2024-07-10 22:07:39.051 +00:00] [INF] [1] Main: Operating system: "Ubuntu 22.04.4 LTS"
+[2024-07-10 22:07:39.052 +00:00] [INF] [1] Main: Architecture: X64
+[2024-07-10 22:07:39.053 +00:00] [INF] [1] Main: 64-Bit Process: True
+[2024-07-10 22:07:39.053 +00:00] [INF] [1] Main: User Interactive: True
+[2024-07-10 22:07:39.053 +00:00] [INF] [1] Main: Processor count: 8
+[2024-07-10 22:07:39.053 +00:00] [INF] [1] Main: Program data path: "/config/data"
+[2024-07-10 22:07:39.053 +00:00] [INF] [1] Main: Log directory path: "/config/log"
+[2024-07-10 22:07:39.053 +00:00] [INF] [1] Main: Config directory path: "/config"
+[2024-07-10 22:07:39.054 +00:00] [INF] [1] Main: Cache path: "/config/cache"
+[2024-07-10 22:07:39.054 +00:00] [INF] [1] Main: Web resources path: "/usr/share/jellyfin/web"
+[2024-07-10 22:07:39.054 +00:00] [INF] [1] Main: Application directory: "/usr/lib/jellyfin/bin/"
+[2024-07-10 22:07:39.312 +00:00] [INF] [1] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2024-07-10 22:07:39.620 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Loading assemblies
+[2024-07-10 22:07:39.675 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.Dlna, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Jellyfin.Plugin.Dlna.dll"
+[2024-07-10 22:07:39.676 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Rssdp, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Rssdp.dll"
+[2024-07-10 22:07:39.680 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.Dlna.Playback, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Jellyfin.Plugin.Dlna.Playback.dll"
+[2024-07-10 22:07:39.681 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.Dlna.Model, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/DLNA_2.0.0.0/Jellyfin.Plugin.Dlna.Model.dll"
+[2024-07-10 22:07:39.686 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded assembly "Jellyfin.Plugin.OpenSubtitles, Version=20.0.0.0, Culture=neutral, PublicKeyToken=null" from "/config/data/plugins/Open Subtitles_20.0.0.0/Jellyfin.Plugin.OpenSubtitles.dll"
+[2024-07-10 22:07:39.776 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2024-07-10 22:07:39.776 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions: []
+[2024-07-10 22:07:39.777 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Used LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2024-07-10 22:07:39.778 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered interface addresses: ["127.0.0.1", "172.19.0.2"]
+[2024-07-10 22:07:39.779 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Bind Addresses ["0.0.0.0"]
+[2024-07-10 22:07:39.779 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Remote IP filter is "Allowlist"
+[2024-07-10 22:07:39.779 +00:00] [INF] [1] Jellyfin.Networking.Manager.NetworkManager: Filtered subnets: []
+[2024-07-10 22:07:42.928 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "DLNA" "2.0.0.0"
+[2024-07-10 22:07:42.942 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Open Subtitles" "20.0.0.0"
+[2024-07-10 22:07:42.943 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "TMDb" "10.9.7.0"
+[2024-07-10 22:07:42.944 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Studio Images" "10.9.7.0"
+[2024-07-10 22:07:42.944 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "OMDb" "10.9.7.0"
+[2024-07-10 22:07:42.968 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "MusicBrainz" "10.9.7.0"
+[2024-07-10 22:07:42.968 +00:00] [INF] [1] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "AudioDB" "10.9.7.0"
+[2024-07-10 22:07:43.049 +00:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.Repositories.EphemeralXmlRepository: Using an in-memory repository. Keys will not be persisted to storage.
+[2024-07-10 22:07:43.049 +00:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+[2024-07-10 22:07:43.064 +00:00] [INF] [1] Main: Kestrel is listening on "0.0.0.0"
+[2024-07-10 22:07:43.271 +00:00] [INF] [1] Jellyfin.Plugin.Dlna.Main.DlnaHost: Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "127.0.0.1"
+[2024-07-10 22:07:43.290 +00:00] [INF] [1] Jellyfin.Plugin.Dlna.Main.DlnaHost: Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "172.19.0.2"
+[2024-07-10 22:07:43.312 +00:00] [WRN] [1] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: No XML encryptor configured. Key {e7c5842c-ce95-46fd-ab61-28cdacc07a06} may be persisted to storage in unencrypted form.
+[2024-07-10 22:07:43.601 +00:00] [INF] [1] Jellyfin.Networking.PortForwardingHost: Starting NAT discovery
+[2024-07-10 22:07:44.295 +00:00] [WRN] [1] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: The WebRootPath was not found: "/run/s6-rc:s6-rc-init:pPCNmB/servicedirs/svc-jellyfin/wwwroot". Static files may be unavailable.
+[2024-07-10 22:07:44.341 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Running startup tasks
+[2024-07-10 22:07:44.347 +00:00] [INF] [14] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies"
+[2024-07-10 22:07:44.351 +00:00] [INF] [8] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/tvshows"
+[2024-07-10 22:07:44.368 +00:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generar miniaturas de línea de tiempo" set to fire at 2024-07-11 03:00:00.000 +00:00, which is 04:52:15.6312107 from now.
+[2024-07-10 22:07:44.378 +00:00] [INF] [1] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extraer imágenes de los capítulos" set to fire at 2024-07-11 02:00:00.000 +00:00, which is 03:52:15.6219137 from now.
+[2024-07-10 22:07:44.613 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Found ffmpeg version "6.0.1"
+[2024-07-10 22:07:44.689 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "decoders": ["libdav1d", "av1", "av1_cuvid", "av1_qsv", "h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "mpeg2_cuvid", "mpeg4", "mpeg4_cuvid", "msmpeg4", "vc1_qsv", "vc1_cuvid", "vp8", "libvpx", "vp8_cuvid", "vp8_qsv", "vp9", "libvpx-vp9", "vp9_cuvid", "vp9_qsv", "aac", "ac3", "dca", "flac", "mp3", "truehd"]
+[2024-07-10 22:07:44.710 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "encoders": ["libsvtav1", "av1_nvenc", "av1_qsv", "av1_amf", "av1_vaapi", "libx264", "h264_amf", "h264_nvenc", "h264_qsv", "h264_v4l2m2m", "h264_vaapi", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "hevc_vaapi", "mjpeg_qsv", "mjpeg_vaapi", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "libfdk_aac", "ac3", "alac", "dca", "flac", "libmp3lame", "libopus", "truehd", "libvorbis", "srt"]
+[2024-07-10 22:07:44.734 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available filters: ["deinterlace_qsv", "deinterlace_vaapi", "hwupload_cuda", "hwupload_vaapi", "libplacebo", "overlay_opencl", "overlay_qsv", "overlay_vaapi", "overlay_vulkan", "overlay_cuda", "procamp_vaapi", "scale_cuda", "scale_opencl", "scale_qsv", "scale_vaapi", "scale_vulkan", "tonemap_cuda", "tonemap_opencl", "tonemap_vaapi", "vpp_qsv", "yadif_cuda", "zscale", "alphasrc"]
+[2024-07-10 22:07:44.849 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available hwaccel types: ["cuda", "vaapi", "qsv", "drm", "opencl", "vulkan"]
+[2024-07-10 22:07:45.912 +00:00] [INF] [1] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: FFmpeg: "/usr/lib/jellyfin-ffmpeg/ffmpeg"
+[2024-07-10 22:07:45.912 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: ServerId: "403462fb282e4e5db312f5d602582022"
+[2024-07-10 22:07:45.912 +00:00] [INF] [1] Emby.Server.Implementations.ApplicationHost: Core startup complete
+[2024-07-10 22:07:45.912 +00:00] [INF] [1] Main: Startup complete 0:00:07.5038083
+[2024-07-10 22:07:47.395 +00:00] [INF] [20] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Limpiar colecciones y listas de reproducción" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 22:07:47.482 +00:00] [ERR] [20] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://repo.jellyfin.org/files/plugin/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (repo.jellyfin.org:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 22:07:47.501 +00:00] [ERR] [8] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (raw.githubusercontent.com:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 22:07:47.507 +00:00] [ERR] [20] Emby.Server.Implementations.Updates.InstallationManager: An error occurred while accessing the plugin manifest: "https://repo.codyrobibero.dev/manifest.json"
+System.Net.Http.HttpRequestException: Name or service not known (repo.codyrobibero.dev:443)
+ ---> System.Net.Sockets.SocketException (0xFFFDFFFF): Name or service not known
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.AttemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at Jellyfin.Networking.HappyEyeballs.HttpClientExtension.OnConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at Emby.Server.Implementations.Updates.InstallationManager.GetPackages(String manifestName, String manifest, Boolean filterIncompatible, CancellationToken cancellationToken)
+[2024-07-10 22:07:47.513 +00:00] [INF] [20] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Actualizar extensiones" Completed after 0 minute(s) and 0 seconds
+[2024-07-10 22:12:00.151 +00:00] [INF] [30] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 22:12:53.795 +00:00] [INF] [15] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 22:16:44.469 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Roku" "2.0.7" playing "Tras la pista de Red John". Stopped at "212000" ms
+[2024-07-10 22:30:29.023 +00:00] [INF] [51] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "juan". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-07-10 22:50:31.092 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Roku" "2.0.7" playing "Tras la pista de Red John". Stopped at "753000" ms
