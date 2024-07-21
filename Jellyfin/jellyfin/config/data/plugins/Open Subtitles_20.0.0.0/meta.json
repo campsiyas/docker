@@ -1,7 +1,7 @@
 {
   "category": "Metadata",
   "changelog": "- 10.9 (#145) @crobibero\n\n### Dependency updates ###\n- chore(deps): update xunit-dotnet monorepo (#117) @renovate",
-  "description": "Download subtitles from the internet to use with your media files. (Requires configuration)",
+  "description": "",
   "guid": "4b9ed42f-5185-48b5-9803-6ff2989014c4",
   "name": "Open Subtitles",
   "overview": "Download subtitles for your media",

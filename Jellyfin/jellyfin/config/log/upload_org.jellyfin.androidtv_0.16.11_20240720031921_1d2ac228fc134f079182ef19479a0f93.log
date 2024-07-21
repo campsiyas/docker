@@ -1,0 +1,207 @@
+---
+client: Jellyfin for Android TV
+client_version: 0.16.11
+client_repository: https://github.com/jellyfin/jellyfin-androidtv
+type: crash_report
+format: markdown
+---
+### Logs
+
+***Stack Trace***: 
+```log
+org.jellyfin.sdk.api.client.exception.TimeoutException: Connection failed
+	at org.jellyfin.sdk.api.client.KtorClient.request$suspendImpl(KtorClient.kt:126)
+	at org.jellyfin.sdk.api.client.KtorClient$request$1.invokeSuspend(Unknown Source:19)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at android.os.Handler.handleCallback(Handler.java:873)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:211)
+	at android.app.ActivityThread.main(ActivityThread.java:6775)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)
+	Suppressed: kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [StandaloneCoroutine{Cancelling}@71cbeb8, Dispatchers.Main.immediate]
+Caused by: java.net.ConnectException: Failed to connect to /192.168.1.67:8096
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207)
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
+	at okhttp3.internal.connection.RealCall$AsyncCall.run(RealCall.kt:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+Caused by: java.net.ConnectException: failed to connect to /192.168.1.67 (port 8096) from /192.168.1.16 (port 34494) after 6000ms: isConnected failed: EHOSTUNREACH (No route to host)
+	at libcore.io.IoBridge.isConnected(IoBridge.java:278)
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:187)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:621)
+	at okhttp3.internal.platform.AndroidPlatform.connectSocket(AndroidPlatform.kt:63)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
+	... 18 more
+Caused by: android.system.ErrnoException: isConnected failed: EHOSTUNREACH (No route to host)
+	at libcore.io.IoBridge.isConnected(IoBridge.java:267)
+	... 28 more
+
+```  
+***Logcat***: 
+```log
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.RealCall$AsyncCall.run(RealCall.kt:517)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.lang.Thread.run(Thread.java:764)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): Caused by: java.net.ConnectException: failed to connect to /192.168.1.67 (port 8096) from /192.168.1.16 (port 34490) after 6000ms: isConnected failed: EHOSTUNREACH (No route to host)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at libcore.io.IoBridge.isConnected(IoBridge.java:278)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at libcore.io.IoBridge.connectErrno(IoBridge.java:187)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at libcore.io.IoBridge.connect(IoBridge.java:129)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at java.net.Socket.connect(Socket.java:621)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.platform.AndroidPlatform.connectSocket(AndroidPlatform.kt:63)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	... 18 more
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): Caused by: android.system.ErrnoException: isConnected failed: EHOSTUNREACH (No route to host)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	at libcore.io.IoBridge.isConnected(IoBridge.java:267)
+07-19 17:53:32.682 E/ServerRepositoryImpl(22884): 	... 28 more
+07-19 17:53:32.715 E/ACRA    (22884): ACRA caught a TimeoutException for org.jellyfin.androidtv
+07-19 17:53:32.715 E/ACRA    (22884): org.jellyfin.sdk.api.client.exception.TimeoutException: Connection failed
+07-19 17:53:32.715 E/ACRA    (22884): 	at org.jellyfin.sdk.api.client.KtorClient.request$suspendImpl(KtorClient.kt:126)
+07-19 17:53:32.715 E/ACRA    (22884): 	at org.jellyfin.sdk.api.client.KtorClient$request$1.invokeSuspend(Unknown Source:19)
+07-19 17:53:32.715 E/ACRA    (22884): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+07-19 17:53:32.715 E/ACRA    (22884): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+07-19 17:53:32.715 E/ACRA    (22884): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+07-19 17:53:32.715 E/ACRA    (22884): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.resumeRootWith(SuspendFunctionGun.kt:194)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun.access$resumeRootWith(SuspendFunctionGun.kt:15)
+07-19 17:53:32.715 E/ACRA    (22884): 	at io.ktor.util.pipeline.SuspendFunctionGun$continuation$1.resumeWith(SuspendFunctionGun.kt:89)
+07-19 17:53:32.715 E/ACRA    (22884): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+07-19 17:53:32.715 E/ACRA    (22884): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+07-19 17:53:32.715 E/ACRA    (22884): 	at android.os.Handler.handleCallback(Handler.java:873)
+07-19 17:53:32.715 E/ACRA    (22884): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-19 17:53:32.715 E/ACRA    (22884): 	at android.os.Looper.loop(Looper.java:211)
+07-19 17:53:32.715 E/ACRA    (22884): 	at android.app.ActivityThread.main(ActivityThread.java:6775)
+07-19 17:53:32.715 E/ACRA    (22884): 	at java.lang.reflect.Method.invoke(Native Method)
+07-19 17:53:32.715 E/ACRA    (22884): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+07-19 17:53:32.715 E/ACRA    (22884): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)
+07-19 17:53:32.715 E/ACRA    (22884): 	Suppressed: kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [StandaloneCoroutine{Cancelling}@71cbeb8, Dispatchers.Main.immediate]
+07-19 17:53:32.715 E/ACRA    (22884): Caused by: java.net.ConnectException: Failed to connect to /192.168.1.67:8096
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
+07-19 17:53:32.715 E/ACRA    (22884): 	at okhttp3.internal.connection.RealCall$AsyncCall.run(RealCall.kt:517)
+07-19 17:53:32.715 E/ACRA    (22884): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.lang.Thread.run(Thread.java:764)
+07-19 17:53:32.716 E/ACRA    (22884): Caused by: java.net.ConnectException: failed to connect to /192.168.1.67 (port 8096) from /192.168.1.16 (port 34494) after 6000ms: isConnected failed: EHOSTUNREACH (No route to host)
+07-19 17:53:32.716 E/ACRA    (22884): 	at libcore.io.IoBridge.isConnected(IoBridge.java:278)
+07-19 17:53:32.716 E/ACRA    (22884): 	at libcore.io.IoBridge.connectErrno(IoBridge.java:187)
+07-19 17:53:32.716 E/ACRA    (22884): 	at libcore.io.IoBridge.connect(IoBridge.java:129)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+07-19 17:53:32.716 E/ACRA    (22884): 	at java.net.Socket.connect(Socket.java:621)
+07-19 17:53:32.716 E/ACRA    (22884): 	at okhttp3.internal.platform.AndroidPlatform.connectSocket(AndroidPlatform.kt:63)
+07-19 17:53:32.716 E/ACRA    (22884): 	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
+07-19 17:53:32.716 E/ACRA    (22884): 	... 18 more
+07-19 17:53:32.716 E/ACRA    (22884): Caused by: android.system.ErrnoException: isConnected failed: EHOSTUNREACH (No route to host)
+07-19 17:53:32.716 E/ACRA    (22884): 	at libcore.io.IoBridge.isConnected(IoBridge.java:267)
+07-19 17:53:32.716 E/ACRA    (22884): 	... 28 more
+
+```  
+
+### App information
+
+***App version***: `0.16.11` (`161199`)  
+***Package name***: `org.jellyfin.androidtv`  
+***Build***: 
+```json
+{"BOARD":"sheldonp","BOOTLOADER":"unknown","BRAND":"Amazon","CPU_ABI":"armeabi-v7a","CPU_ABI2":"armeabi","DEVICE":"sheldonp","DISPLAY":"PS7673.4183N","FINGERPRINT":"Amazon\/sheldonp\/sheldonp:9\/PS7673.4183N\/0030367831808:user\/amz-p,release-keys","HARDWARE":"mt8695","HOST":"i3-ri-14-use1a-b-16-04-fos-144","ID":"PS7673.4183N","IS_DEBUGGABLE":false,"IS_EMULATOR":false,"MANUFACTURER":"Amazon","MODEL":"AFTSSS","PERMISSIONS_REVIEW_REQUIRED":false,"PRODUCT":"sheldonp","RADIO":"unknown","SUPPORTED_32_BIT_ABIS":["armeabi-v7a","armeabi"],"SUPPORTED_64_BIT_ABIS":[],"SUPPORTED_ABIS":["armeabi-v7a","armeabi"],"TAGS":"amz-p,release-keys","TIME":1715944319000,"TYPE":"user","UNKNOWN":"unknown","USER":"build","VERSION":{"ACTIVE_CODENAMES":[],"BASE_OS":"PPR1.180610.009","CODENAME":"REL","FIRST_SDK_INT":28,"INCREMENTAL":"0030367831940","PREVIEW_SDK_INT":0,"RELEASE":"9","RESOURCES_SDK_INT":28,"SDK":"28","SDK_INT":28,"SECURITY_PATCH":"2024-02-01"}}
+```  
+***Build config***: 
+```json
+{"APPLICATION_ID":"org.jellyfin.androidtv","BUILD_TYPE":"release","DEBUG":false,"DEVELOPMENT":false,"VERSION_CODE":161199,"VERSION_NAME":"0.16.11"}
+```  
+
+### Device information
+
+***Android version***: `9`  
+***Device brand***: `Amazon`  
+***Device product***: `sheldonp`  
+***Device model***: `AFTSSS`  
+
+### Crash information
+
+***Start time***: `2024-07-16T21:50:31.637-06:00`  
+***Crash time***: `2024-07-19T17:53:32.806-06:00`  
+

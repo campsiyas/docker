@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2024-07-11T03:01:38.0990028Z","EndTimeUtc":"2024-07-11T03:01:38.1055327Z","Status":"Completed","Name":"Limpiar las transcodificaciones","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}
+{"StartTimeUtc":"2024-07-20T03:04:49.6946477Z","EndTimeUtc":"2024-07-20T03:04:49.6996512Z","Status":"Completed","Name":"Limpiar las transcodificaciones","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}
